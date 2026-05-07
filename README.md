@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 📱 Mini WhatsApp Clone (Flutter)
 
 A simple Flutter chat application that simulates a WhatsApp-like experience. The project demonstrates core Flutter concepts including API integration, state management, reusable widgets, navigation, and local data persistence.
@@ -79,3 +80,6 @@ Search chats functionality
 ⭐ If you like this project
 
 You can star the repository and use it as a base for building more advanced chat applications.
+=======
+# mini_whatsapp_clone
+>>>>>>> 1e38529e0e6218867fddfe7ccec67031ea6dde6a
